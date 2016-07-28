@@ -1,0 +1,4 @@
+cuba -v 3.8.0
+cutest -v 1.2.3
+rack-test -v 0.6.3
+tilt -v 2.0.5
